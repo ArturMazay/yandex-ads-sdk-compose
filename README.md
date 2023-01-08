@@ -3,6 +3,8 @@
 # ads compose
 # yandex compose
 
+https://play.google.com/store/apps/details?id=com.aistudio.advertisementyandexdemoapp
+
 Приложение для разработчиков, ни какой смыловой нагрузки в нем нет, только пример рекламы. 
 Если вы не разработчик вам оно будет не интересно. 
 Данное приложение создано для популизации Jetpack Compose, а так же для демонстрации взаимодействия
