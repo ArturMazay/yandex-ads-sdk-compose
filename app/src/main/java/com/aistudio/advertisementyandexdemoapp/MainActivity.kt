@@ -29,11 +29,9 @@ class MainActivity : ComponentActivity() {
             val useDarkIcons = !isSystemInDarkTheme()
 
             DisposableEffect(systemUiController, useDarkIcons) {
+
                 MobileAds.initialize(this@MainActivity) {
-
                     Log.d(YANDEX_MOBILE_ADS_TAG, "SDK initialized")
-
-
                 }
 
                 systemUiController.setSystemBarsColor(
